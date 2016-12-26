@@ -23,7 +23,12 @@ calculating variables from the time and frequency domain.
 
 Summary Choices
 
-Taking the mean and standard deviation column of all measurements, we grouped the data by subject and activity and took the average of all variables in the subset.
+Subject - numbers 1 through 30
+
+Activity_label -  WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING
+
+To calculate the mean and standard deviation column of all measurements, we 
+grouped the data by subject and activity and took the average of all variables in the subset.
 
 Variables of the Original Dataset
 
